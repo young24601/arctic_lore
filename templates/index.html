@@ -1,0 +1,57 @@
+<html>
+  <head>
+    <script src="{{ url_for('static', filename="js/jquery-3.4.1.min.js") }}"></script>
+  </head>
+  <body>
+    <p style="position:fixed;top:10%;left:2%">
+      <input type="text" id="textKeywords" style="font-size:24pt;height:50px;" autofocus />
+      <button id="searchButton" style="font-size:24pt">Search</button>
+    </p>
+    <p style="position:fixed;top:10%;left:60%">
+      <button id="resetButton" style="font-size:24pt">Reset</button>
+    </p>
+    <script>
+      var rightCounter = 0;
+      $('#searchButton').click(function(){
+        $.ajax({
+          type:'get',
+          url:'/get_lores',
+          data:{keywords: $('#textKeywords').val()},
+          success: function(data) {
+            $('#results').html(data);
+          }
+        });
+      });
+
+      $('#resetButton').click(function(){
+        $('#savedResults').empty();
+      });
+
+      $( "body" ).click(function( event ) {
+          $('#textKeywords').select();
+      });
+
+      function moveItem(toMove){
+        $(toMove).attr("id", "right_side_"+rightCounter);
+        $(toMove).attr("onclick", "removeItem(" + "right_side_"+ rightCounter++ + ")");
+        $(toMove).prependTo("#savedResults");
+      }
+
+      function removeItem(toRemove){
+        $(toRemove).remove();
+      }
+    </script>
+
+    <p id="results" style="position:fixed;top:20%;left:2%;width:57%;height:80%;overflow-x: scroll;overflow-y: scroll;"></p>
+    <p id="savedResults" style="position:fixed;top:20%;left:60%;width:40%;height:80%;overflow-x: scroll;overflow-y: scroll;"></p>
+
+    <script language="javascript">
+      i = document.getElementById("textKeywords");
+      i.addEventListener("keyup", function(event){
+        if (event.keyCode == 13){
+          document.getElementById("searchButton").click();
+        }
+      });
+    </script>
+  </body>
+</html>
