@@ -1,0 +1,812 @@
+one step from eden
+huntdown
+
+fragile coral ring
+ Object 'ring coral'
+ Item Type: WAND        
+ Mat Class: natural      Material: stone
+ Weight   : 2            Value   : 100
+
+ Effects  : DETECT_INVISIBLE
+ Item is  : MAGIC
+
+
+
+fragile coral amulet
+ Object 'amulet coral'
+ Item Type: WORN        
+ Mat Class: natural      Material: stone
+ Weight   : 1            Value   : 100
+
+ Effects  : INFRAVISION
+ Item is  : BLESS
+
+
+black short sword
+ Object 'sword short lily black'
+ Item Type: WEAPON      
+ Mat Class: metal        Material: steel
+ Weight   : 20           Value   : 200
+
+ Affects  : DAMROLL       by 2
+ Affects  : HITROLL       by 2
+ Item is  : MAGIC
+ Restricts: NOTHIEF
+ Class    : short_sword
+ Damage   : 5D3
+ 
+
+dragon skull sceptre
+ Object 'sceptre skull dragon'
+ Item Type: WEAPON      
+ Mat Class: metal        Material: gold
+ Weight   : 10           Value   : 400
+
+ Affects  : DAMROLL       by 2
+ Affects  : HITROLL       by 2
+ Affects  : casting level by 3
+ Item is  : HUM MAGIC
+ Restricts: NOTHIEF NOPALADIN NORANGER NOWARRIOR NODARK_KNIGHT NOBARBARIAN
+ Class    : staff
+ Damage   : 3D6
+
+
+a regal green dragonscale helm
+ Object 'helm helmet green dragonscale scale'
+ Item Type: ARMOR       
+ Mat Class: scale        Material: dragonscale
+ Weight   : 12           Value   : 600
+
+ Affects  : ARMOR         by -4
+ Affects  : INT           by 1
+ Item is  : MAGIC BLESS
+ Apply    : 4
+ This object is part of a larger set.
+
+
+2x finger
+2x neck
+wrist
+
+
+tar->bog: 6nw2nw3n2w11nu3nu3n2wnwu4n3nenun ndndn3w5n
+	bog->sol: wn3w3nw4ne4nw5ne4nw10n
+
+tar->sham: 10es3e2neu
+  sham->sign: 4e3n6e2neu4n
+  sign->bard: 2en4e3nu5n
+
+bali->bard: 10n6w2sw
+bali->kender: 24nes16en5enue2n10ew2n
+
+
+bard->bali: e2n6e10s
+bard->sign: 5sd3s4ws2w
+  sign->shaman: 4sdw2s6w3s4w
+  shaman->tarsis: dw2s4wn10w
+
+ner->spring: 4nu3w5nu2nw2nwnun
+spring->kal: 2nd6n14n
+kal->spring: e12su2s
+  spring->split: wdwd3wdwdsd3s
+    split-> boku: wdw2nwnen3e; climb cliff; d
+
+  spring->signpost: sdse2ses
+    signpost->neraka_east: sd5s3ed5s 2esese
+    neraka_east->tree: 4e2se3sd2s2e
+
+solace -> port'o: 8n3e15nw2n3w2n
+    port'o -> inter: ne2n
+    inter -> tollhouse: 2ne2nw3n
+    tollhouse -> pal: 4w2n2wd2wuw2n2e3n2w6n8w4nws
+
+que kul 4nw
+
+
+
+pragor
+Sips tells you 'sahuagin reef high priestess'
+
+
+
+Palanthas farm (w and n of Pal w gate)
+Druid Nook (west out of kal w gate, touch marble - lots of keywords in this zone)
+Fort Khalarm - (west and south of kal)
+Palanthas Gnomes n w e out w gate pal
+Palanthas Library
+Hylo - west of palanthas over ocean
+Fyzia - west and south and west and south of palanthas
+Palanthas palace guards
+Solace Thanes - west north of Solace
+Fallstaff Manor - southern part of palanthas
+Crimson keep + Gulfport
+Volcano
+Kal docks
+Dwarven Keep + Deep Mine
+
+
+Good players
+
+Pal Graveyard
+Brog (lots of keywords) - neish from balifor
+Sligs
+Goblins
+Pigmies - east south east of kalaman, make sure go east and not west or south after taking the down
+Solace kobold - out w gate
+Argand Keep
+Northern Ergoth + illrigger - west of palanthas
+Bali training ground + pirates
+Neraka
+Drac Tower
+
+
+Str: 13 Int: 17 Wis: 23 Dex: 13 Con: 18 Cha: 15
+
+hill:
+Str: 13 Int: 16 Wis: 23 Dex: 13 Con: 17 Cha: 15
+Str: 12 Int: 16 Wis: 23 Dex: 13 Con: 17 Cha: 15
+Str: 13 Int: 16 Wis: 22 Dex: 12 Con: 18 Cha: 14
+Str: 12 Int: 16 Wis: 22 Dex: 12 Con: 18 Cha: 14
+Str: 12 Int: 16 Wis: 22 Dex: 13 Con: 18 Cha: 15
+
+quali:
+Str: 12 Int: 17 Wis: 22 Dex: 16 Con: 14 Cha: 14
+Str: 11 Int: 17 Wis: 22 Dex: 17 Con: 15 Cha: 15
+Str: 11 Int: 16 Wis: 22 Dex: 17 Con: 15 Cha: 14
+
+silv:
+Str: 12 Int: 20 Wis: 19 Dex: 17 Con: 14 Cha: 15
+
+
+
+Str: 19 Int: 12 Wis: 14 Dex: 19 Con: 19 Cha: 15
+Str: 19 Int: 11 Wis: 15 Dex: 13 Con: 24 Cha: 14
+Str: 19 Int: 11 Wis: 14 Dex: 12 Con: 24 Cha: 15
+Str: 19 Int: 12 Wis: 14 Dex: 18 Con: 19 Cha: 16
+
+Phrutten tells you 'well done!'
+You add to your repertoire the spell ritual voyage from a small piece of meteorite.
+
+
+Wallran Heartfellow
+small prayerbook with carved wooden covers: gust of wind
+
+You give a frail prayerbook bound with gossamer to Guinevere.
+Guinevere says 'Book was negative plane protection, which is circle 7.'
+
+I’ve been trying to find all of the spells for my dk but I’m missing one.  I have heard that the trainer loads in high clerists tower but I can’t find him.  Is he in that place past the run wall with the rats?   Or is he maybe past the death stabber?
+When you go n and u into the tower. The dk trainer is like s s u s and u. Behind a locked hatch that is pickable. Mobs inside are agro to good/neutrals
+
+
+Shealer tells you 'solace clerics for atonement'
+vad from myth atonement
+Theend tells you 'dk mage duo?'
+Theend tells you 'hylar kago for neutralish align barbs'
+Theend tells you 'kago or minotaur for evil barb'
+Theend tells you 'when u reincarnate definitely do half ogre'
+Theend tells you 'bog dragon lemuria and celestial temple will be your best bet for rit'
+
+
+You tell Xanatos 'thank you. i guess i'll let you know in 30 minutes or 1 hr lol'
+Xanatos tells you 'stumble west through the spin'
+Castor tells your group 'take the coin to the dk guild'
+Castor tells your group 'put it in the slot there'
+embrace lilyƒ
+You embrace your new path.
+Laureen whispers 'Search for Atriho Druul, Freya Tamerley and Gnobo Ras.
+They are powerful servants of the Dark Queen and will help you hone your
+skills.'
+
+
+Ah, a fellow follower of Takhisis! I might have some work for you...
+
+My friend Jibur left Delphon a few weeks ago, on a mission by Commander
+Dumgaar himself. He was supposed to scout the Solamnic Plains, west of
+Kalaman, for the presence of a hidden outpost of the Solamnic knighthood
+and deliver a report of their forces.
+
+He has been missing for too long... I am worried that he has been captured,
+or worse. Should you manage to infiltrate the camp and bring me news of his
+fate, I would be grateful. Here, take this seal. If Jibur is still alive,
+this will help you convince him that you are a friend.
+
+Pragor tells you 'and first south you see'
+Pragor tells you 'will lead to plains spin'
+Pragor tells you 'then you go westish basically and you will hit a NS exit room'
+Pragor tells you 'ghostberries loads in like sahuagin reef and bandit swamp'
+Pragor tells you 'ritual is ct chieftain, last gaard, lemuria and some others'
+Pragor tells you 'irda sandman, theiwar spider queen'
+Pragor tells you 'pax tharkax kith'
+Pragor tells you 'rivermaster'
+Pragor tells you 'gileans spire shaman'
+Pragor tells you 'kith in pax and rivermaster in vingaard river west are easiest spots to get high spells'
+Pragor tells you 'healing wave, last chance, rotting flesh'
+Pragor tells you 'feel free to ask me questions whenever if i don't erspond i'm probably afk'
+<Myth> Pragor the Male Hill Dwarf
+
+outpost: s7w n
+
+
+
+kobold: a book decorated with fancy copper charms..it glows blue -> chaos
+maze (kalaman): Dodok gives you an archaic book of revision. -> relearn
+lira: a blackened chunk of defiled flesh: vile spirits
+
+
+boku:  Boku                  (mid-high) Ner 5w3nen3e 'climb cliff' d osv. ok
+
+
+Ralon tells you 'nope, it's from darvar in kruins' (THE RUINED CITY)
+a leather tome pitted with rusty iron runes -> locate object
+
+
+
+(neraka)
+   Soci looks up from his work as you approach.
+   Soci says 'Although I work here at the camp, I
+   do enjoy making side money. If you brought to
+   me the pieces of a dagger, I can fashion it
+   for the right price.
+   You will need some golden coal, a fragmented
+   blade, and some kind of wrap to bind the
+   handle.'
+
+
+Zed says 'then run gnome caverns til 11'
+Zed says 'then thanes mansion w of solace'
+Zed says 'thanes mansion is great xp, and good ranks'
+Zed says 'then i do thanes, with que teh'
+Zed says 'go into ocean, and its westish'
+
+
+mummified head inscribed with golden glyphs.
+
+Seethe: tells you 'nah. i play solo. hollar sometime and we can explore a zone.'
+
+Jaranoth tells you 'don't know where it pop but its from a pink candle burning with green flames'
+ghost berries: Jaranoth tells you 'its near kalaman i think'
+
+
+Yuck gives you a pink candle burning with a green flame.
+You add to your repertoire the spell amplify spirits from a pink candle burning with a green flame.
+A pink candle burning with a green flame magically disappears as you finish studying it.
+
+
+
+Gza tells you 'there's twisted fate quest, there's omen quest, there's a quest in n.ergoth to fight a demon that drops shaman charms'
+
+Nethar tells you 'pigmy shaman, enstar bay shaman, boku zombie, sadistic troll near wda'
+there is a place u can open bark,go 2u n all e all s
+Nethar tells you 'wda east south of solace, lots of dts there tho and its hard to find'
+Nethar tells you 'enstar: well n w s actually'
+
+
+Ner - 6nw2neundn
+Entrance - 2nwnw4n2un2es - Pigmy Platform
+
+ Pigmy Forest          (mid) Ner 6nw2neundn ok
+                             Kal 10s2e2se3su2eundn ok
+                                  Entrance - 2nwnw4n2un2es - Pigmy Platform
+                book(chest) Ent-nwnw4n;open bark;n2uwsw2s2e2u(guard)ed
+               uw2d2w2ne2n2enwes2d5seses
+
+Tina tells you 'bark is somewhere you need to cut some trees northist at forest area'
+Tina tells you 'sap is at the area you are in now'
+
+Boku: Ner 5w3nen3e 'climb cliff' d osv. ok
+      Ner 5w3nen3eu                       3wsw3s5e
+    some bark strips off the trees in the forest
+    and some sap from the golden tree
+
+
+tirabot manor: green spellbook: epiphany
+
+dragons point
+Dufrane tells you 'go all north from bali til sign then one e then north and you fllow path'
+
+a crimson red book of enchantments -> zombie double
+zeeriak: an old water-stained spellbook -> charm monster
+
+22n 3w 2s 2w s 5w u
+
+19n 10w u
+
+Gal'Vari's Isle
+Remember!  At the dead end wall on the mountain face say the words -
+
+                                 stone to dust
+
+
+green hag's ring: bullywugs
+Kaganos tells you 'get acorn, heart and and'
+Kaganos tells you 'u can figure it out from ther to find hag'
+Kaganos tells you 'then conjure beast with those items'
+
+Malus shouts 'tightly bound tome of magic for sale' ->
+
+order golem forget all;
+order golem mem 'magic missile';!;!;!;
+order golem mem 'silence';!;!;
+order golem mem 'magic bolt';!;order golem mem 'magic blast';!;
+
+
+
+Soci looks up from his work as you approach.
+
+   Soci says 'Although I work here at the camp, I
+   do enjoy making side money. If you brought to
+   me the pieces of a dagger, I can fashion it
+   for the right price.
+
+   You will need some golden coal, a fragmented
+   blade, and some kind of wrap to bind the
+   handle.'
+
+
+A listing of mage guildmasters that you can use to teleport to
+name        town
+----        ----
+canstin     haven      (west side of krynn)
+molg        neraka     (center of krynn)
+petrin      balifor    (east side of krynn)
+anatole     palanthas  (north west part of krynn)
+zardonna    kalaman    (north central part of krynn)
+darvinus    tarsis     (south west part of krynn)
+Theobald brien       solace     (west central part of krynn)
+kailee      wayreth (tower)    (west central part of krynn)
+itanus      tantallon  (west central part of krynn)
+torenth     vingaard   (north central part of krynn)
+
+
+charm: large peapod from native in jungle: protection from undead
+
+
+Alagar tells you 'theiwars'
+Alagar tells you 'master mindflayer'
+
+You have displeased Takhisis!  She strips you of your powers!
+Those interested should seek out Drogo Ja'ar and undertake a quest
+
+aghar
+illyoc: Palanthas west gate wwwsssssseseusedesseneenenenwnen
+
+bog: struggle
+
+kobold mines. west gate - all west, 5s, 1w, 1s, all west (forest road), 2n, u, all w, all n, enter opening, 6n, 1d, all s, w, *N*
+
+Slaith Swamp: east of solace: 17e6n3w
+                                   4nene2n
+                                   back path 2sw3s
+                                   e... (tower)
+                                   2ne8n3e (stingworm)
+                                   3w7seses
+                                   5n2wned3en2e (Ansabar)
+
+
+Cursed Farm: east of kalaman
+pigmy: 10s2e2se3su2eundn (or Ner - 6nw2neundn)
+       Entrance - 2nwnw4n2un2es - Pigmy Platform
+       book(chest) Ent-nwnw4n;open bark;n2uwsw2s2e2u(guard)ed
+       uw2d2w2ne2n2enwes2d5seses
+
+Tirabot Manor  (mid) Fer 2n4ws2w2s5es2e2n2e ok
+               Xrd 3es3en3enen3en5es2e2n2e ok
+Solamnic Outpost: Sol 21e2s3es 'move rocks' ok
+Zegyk - Wendle Woods.
+wendle woods: balifor north gates, nenennenneseneeseenenees(ws) last two go past aggros
+
+
+
+present fish
+You raise a large Bela Fish high for everyone to see.
+An arktos trader reverently admires your catch, his eyes growing wide.
+An arktos trader asks Francesca for a bowl with seawater and puts a large
+Bela Fish inside.
+
+        'The Bela Fish are very rare and very sacred to my tribe. They
+    offer us great wisdom and speak common. You must take him immediately
+    to my chieftain in my village to the south, in the land of ice. Harald
+    Juntgar will surely reward you for bringing him such a gift.'
+
+An arktos traders bows deeply to the large Bela Fish as he sets it down.
+
+Kaliam tells you 'Do you know under docks? Bela quest?  Eel + eye?  Cats + rats?'
+
+
+
+===================================================================================================
+Mage Book Loads for 2003 Wipe
+
+Palanthas - library - Black Mage (death load )
+        old tattered spellbook - 'mending'                                        *12/31/02*
+        old tattered spellbook - 'mending'                                        *01/17/03*
+        a moss-covered book - 'gust of wind'                                      *02/12/03*
+                        ** Loads lowest spells
+
+Bog - kitsch, Kobold Mage
+        a slate-colored book                            - 'locate'                *10/04/02*
+        a slate-colored book                            - 'forcebolt'             *12/19/02*
+        blue book with silver runes - N/N                                         *03/06/03*
+        **Known for upper Low spells FB, LO, IMP .. etc.
+
+Aghar Caverns, Spree Lomac
+        blue book with silver runes - 'whispering winds'                          *11/26/02*
+        blue book with silver gilded edges - 'rot'                                *12/23/02*
+        slate-colored book                                                                                                                                 *01/29/03*
+        **Previous wipes was know for mid/upper lower spells.
+        ** such as FB, LO, IMP, rot, ww, etc.
+
+Aghar Caverns, Pedestal
+        a blue book with silver runes                                                                                         - 'hold monster'         *12/19/02*
+        a slate-colored book with an inscribed cover - 'hold monster'             *01/06/03*
+
+Illyoc Swamp - 3 witches - Tatina, the black witch (death load)
+        Forgot which book, 'forcebolt'                                            *12/17/02*
+        blue book                                                                                                                 'forcebolt' *12/17/02*
+        a foul-smelling book                                                        '        '                                                *02/11/03*
+        blue book with silver gilded edges - 'imp invis'                          *02/16/03*
+        a slate-colored book                                                        '        '                                                                                *02/17/03*        & *03/06/03*        N/N (Imp or FB probably)
+
+Mount Nevermind - Sheana (red robed woman)
+        blue book with silver runes - 'locate object'                             *12/02/02*
+
+Kobold Mines - Tultuk (WEST of Solace)
+        moss-covered book - 'Imp Invis'                                           *09/27/02*
+        dark leather book - 'mending'
+        Slate book - 'rot'                                                        *11/18/02*
+        foul-smelling tome - 'imp invis'                                          *02/27/03*
+        a book with silver-gilded edges - 'imp invis'                             *03/03/03*
+        ** Known for the Mid-lower spells.        Sometimes a good one.
+
+Swamp - East of Solace - Stingworm Chest
+        ** Known for the Lower end spells.
+
+Swamp - East of Solace - Ansabar (not a solo kill)
+        ** Known for the low end UPPER spells.
+
+Kalaman Maze - Wyne/Asha - East of kalaman
+        slate book - 'hold monster'
+        a book with silver-gilded edges - 'improved invis'                        *12/03/02*
+        a foul-smelling tome - 'teleport'                                         *12/05/02*
+        (Asha)
+        moss-covered book                                                         *01/06/03*
+        slate-colored book - 'rot'                                                *01/21/03*
+        slate-colored book - 'locate object'                                      *02/27/03*
+        **Asha is deeper in maze and usually loads better spells.        Know for the lower end spells, but good ones.
+
+Cursed Farm - Succubus (east of Kalaman) book on shelf
+        slate-colered book - 'teleport'                                           *11/22/02*
+        foul-smelling tome - 'deep pockets'                                       *11/04/02*
+        moss-covered book - 'imp invis'                                           *11/22/02*
+        a book with silver-gilded edges
+        slate book - 'hold monster'                                               *11/22/02*
+        a foul-smelling tome - 'teleport'                                         *11/26/02*
+        a slate-colored book         'teleport'                                   *01/15/03*
+        a book with silver-gilded edges - 'rot'                                   *01/24/03*
+
+Hjors Arena - harpy chick loads a fiery red spellbook
+        May be fireball or it's burning hands.
+
+Pigmies -Flaming Chest
+        Burning hands book
+Pigmies - Conjurer
+        Conjurer has a low % load for decent low end spells Like LO and the such.
+
+Balifor Sewers - Trio (Drunken Mage, Thug, Elf)
+        a moss-covered book - 'deep pockets'                                      *12/03/02*
+
+
+Silver Trees - Caristnah
+
+
+Tirabot - Loads a book on the Red mage inside.
+
+Shyn - If you can find him and get a group to do him.
+
+Solamnic Outpost - Jendikor - I always forget about him.. but he's there and loads books.
+22 e 2 s e 2 s e from solace square
+pile rocks to get in
+
+Zegyk - Wendle Woods. - fiery red spellbook - 'fireball' & 'burning hands' Jan. & Feb. 2003
+	from balifor        north gates, nenennenneseneeseenenees(ws) last two go past aggros
+
+===================================================================================================
+
+
+
+
+@ @@ @@ @@ @@ @@ @@ @@ @@ @@ @@ @@ @@ @@ @@ @@@ (
+ @ @@ @@ @@ @@ @@ @@ @@ @@ @@ @@ @@ @@ @@ @@ @@  \ _
+@ @@ @  -@---@--@- @ @ @@ @@ @@ @@ @@ @@ @@ @@ @@ @@ >      / \ to
+ @ @@ /     (*)     \ @@ @@ @@ @@ @@ @@ @@ @@ @_@_@_-        |  Vingaard
+@ @@         1       - @@ @@ @@ @@ @@ @@ @@ @@               |
+ @@ @{                 \ @ @@ @@ @@ @@ @@ @@ /              /
+@ @ {                    --_ @ _---_ @ _--_-                            ^
+ @@                                        *                           ^^
+@ @@ }                                     2                          ^^^
+ @@                        S                                       to--->
+@ @ {                         O                                  Lemish^^
+ @@ {                            U                                     ^^
+@ @@          3                     T                                 ^^^
+ @@ @ }       *                        H                            ^^^^^
+@@ @ |        __     __      4            L                           ^^^
+ @@       _- @@ -_- @@ --__ *                U
+@@ {    / @ @@ @@ @@ @@ @@ \                    N
+ @@ -_- @ @@ @@ @@ @@ @@ @@ -__-_                  D
+@ @@ @@ @@ @@ @@ @@ @@ @@ @@ @@@ \_                                     /
+ @@ @@ @@ @@ @@ @@ @@ @@ @@ @@ @@  -_-_  * 5                           /
+@ @@ @@ @@ @@ @@ @@ @@ @@ @@ @@ @@ @@ @ \                             / @
+
+ [return for more, q to stop]
+ @@ @@ @@ @@ @@ @@ @@ @@ @@ @@ @@ @@ @@  -                           - @@
+<--- to Mt.@@ @@ @@ @@ @@ @@ @@ @@ @@ @@@ {                         } @ @
+ @@ @Nevermind@ @@ @@ @@ @@ @@ @@ @@ @@ @@ -              6       - @ @@
+@ @@ @@ @@ @@ @@ @@ @@ @@ @@ @@ @@ @@ @@ @@ @ \      __  (*)_  _-__- @ @@
+-----------------------@ @@ @@ @@ @@ @@ @@ @@ @ -__-   -___ -- @  @ @@ @@
+                       |@ @@ @@ @@ @@ @@ @@ @@ @@ @@ @@ @@ @@ @@ @@ @@ @@
+(*) - Cities           | @@ @@ @@ @@ @@ @@ @@ @@ @@ @@ @@ @@ @@ @@ @ --->
+ *  - Villages         |@ @@ @@ @@ @@ @@ @@ @@ @@ @@ @@ @@ @@ @@ @@ to @@
+                       | @@ @@ @@ @@ @@ @@ @@ @@ @@ @@ @@ @@ @@ Sanction@
+ 1  - Caergoth         |@ @@ @@ @@ @@ @@ @@ @@ @@ @@ @@ @@@_@_ @ @@ @@ @@
+ 2  - Harrying         | @@ @@ @@ @@ @@ @@ @@ @@ @@ @@ @ _- *  \_@ @@ @@@
+ 3  - Edgerton         |@ @@ @@ @@@ _--_ @ @@ @@ @@ @@ @-   7    }@ @@ @@
+ 4  - Hamilton         | @@ @@ @@ /      }@ @@ @@ @@ /            \@ @@ @
+ 5  - Restglen         |@ @@ @@ /         \@ @@_@@ @/              |@ @@
+ 6  - Port o'Call      | @@ @ /             --   --                 \__@@
+ 7  - Crossing         |@ @@ {
+ 8  - Solace           | @ /                                (*) 8
+
+
+Dodok(Str 20 Int 14 Wis 16 Dex 28 Con 16 Cha 15)                                        Pletho(Str 20 Int 13 Wis 16 Dex 22 Con 17 Cha 17)
+<worn on finger>           the seal of the white dragonarmy(str+1)                      <worn on finger>           the seal of New Tarsis(learn+5)
+<worn on finger>           a fairy skull ring(learn+2)                                  <worn on finger>           a thin pirate band(learn+3)
+<worn around neck>         a crimson cape(hit+1,armor-4)                                <worn around neck>         a ragged leather mantle(hit+1)
+<worn around neck>         a steel neckchain(dex+1)                                     <worn around neck>         a melodious satin scarf (learn, castlevel)
+<worn on body>             a goblin skin vest(str+1)                                    <worn on body>             a suit of charred black battle armor(ac 9, dam+1)
+<worn on head>             a green dragonscale helm                                     <worn on head>             a deeply scratched red dragonarmy helm (str+1)
+<worn on legs>             some ornate midnight blue leather greaves(sv_sp-1)           <worn on legs>             a set of iridescent green steel legplates..it glows dimly (dex+1)
+<worn on feet>             a pair of emerald green leather boots(dex+1,mv+15/+10)       <worn on feet>             a pair of sable leather boots (ac4,arm-4,dex+1)
+<worn on hands>            a pair of ergothian hunting gloves(hit+2,dam+1)              <worn on hands>            a pair of spun mithril gauntlets (dex+1,hit+1,dam+1)
+<worn on arms>             a pair of sable leather sleeves(dex+1,4/-4)                  <worn on arms>             pearl and onyx bracers (dex+1)
+<worn about body>          a red and black tunic(dex+1)                                 <worn about body>          a kender glider (fly)
+<worn about waist>         ruby lined belt(dex+1,0/-4)                                  <worn about waist>         a blood red captain's sash (dex+1)
+<worn around right wrist>  a black dragonscale band(dex+1,det_invis)                    <worn around right wrist>  a gem studded bracer (dex+1)
+<worn around left wrist>   a white dragonarmy bracer(str+1)                             <worn around left wrist>   a red dragonscale bracelet (ac6,arm-7)
+<used in primary hand>     a red metallic javelin(2d8+2+2)                              <used in primary hand>     a slender draconian blade (2d9+1+1, evil)
+<used in secondary hand>   a long diamond-edged blade(2d6+3+3,wt11)                     <used in secondary hand>   a sunburst engraved longsword (2d7+3+1, wt5)
+ring,helm,legs                                                                          ring, neck, about
+
+
+Stabby(Str 17 Int 26 Wis 17 Dex 18 Con 17 Cha 21)                                       Ggusule(Str 13 Int 28 Wis 20 Dex 19 Con 12 Cha 16)
+<used as light>            a thin taper(int+1,wis+1)
+<worn on finger>           a ruby inlaid stone band(int+1)                              <worn on finger>           a ruby inlaid stone band(int+1)
+<worn on finger>           a ruby inlaid stone band(int+1)                              <worn on finger>           a ruby inlaid stone band(int+1)
+<worn around neck>         a brightly colored, beaded necklace(int+1)                   <worn around neck>         a thin gold chain with a huge sapphire(int+1,cha+1)
+<worn around neck>         a brightly colored, beaded necklace(int+1)                   <worn around neck>         a white cloak trimmed with silver(int+1,cl+1,hp-5)
+<worn on body>             an emerald green fiddleback chasuble(int+1,wis+1)            <worn on body>             a robe of pure darkness(int+1,cl+3,r_magic+9)
+<worn on head>             a white fanged wolf headdress(ac10,dex-1,dam+1)              <worn on head>             a delicate platinum tiara(int+1,wis+1,cl+1)
+<worn on legs>             a pair of worn snakeskin pants(int+1)                        <worn on legs>             black pants of the magi(str+1,cl+2)
+<worn on feet>             a pair of hardened leather boots(dex+1,mv+5)                 <worn on feet>             a pair of magi boots(hp+6)
+<worn on hands>            a pair of clear crystal gauntlets(int+1,wis+1)               <worn on hands>            a pair of black gloves of the Conclave(cl+1)
+<worn on arms>             a pair of black silk sleeves(dex+1)                          <worn on arms>             a pair of enchanted gossamer sleeves(dex+1,cl+1)
+<worn about body>          a set of faded ceremonial robes(int+1)                       <worn about body>          some heavy black robes of the Conclave(int+1,learn+5,cl+1)
+<worn about waist>         a vine belt(wis+1)                                           <worn about waist>         a vine belt(wis+1)
+<worn as pouch>            a large component pouch                                      <worn as pouch>            a plain component pouch
+<worn around left wrist>   a gold embroidered emerald maniple(int+1)                    <worn around right wrist>
+<worn around left wrist>   a white dragonarmy bracer                                    <worn around left wrist>   a shimmering purple wristband(hp+5,hit+1)
+<used in primary hand>     a macabre kender bone mace..it hums softly                   <used in primary hand>     the midnight staff(2d7+2+1,cl+3)
+<used in secondary hand>                                                                <held in secondary hand>   a rotted academic tome(int+1)
+                                                                                        boot,wrist,wrist
+
+
+a prayerbook with gleaming pearl covers: dark knight's outpost
+summon
+
+worn hardhat
+ Object 'hardhat hat'
+ Item Type: ARMOR
+ Mat Class: metal        Material: steel
+ Weight   : 8            Value   : 150
+
+ Affects  : HIT           by 5
+ Affects  : ARMOR         by -5
+ Restricts: NOMAGE NOBLACK_ROBE NORED_ROBE NOWHITE_ROBE
+ Apply    : 6
+
+a thin gold chain with a huge sapphire
+ Object 'chain gold sapphire'
+ Item Type: WORN
+ Mat Class: metal        Material: gold
+ Weight   : 3            Value   : 240
+
+ Affects  : CHA           by 1
+ Affects  : INT           by 1
+ Item is  : MAGIC
+ Restricts: NORANGER NOWARRIOR NODARK_KNIGHT
+
+
+a bracelet of threaded lizard teeth
+ Object 'bracelet lizard teeth threaded'
+ Item Type: WORN
+ Mat Class: natural      Material: bone
+ Weight   : 2            Value   : 300
+
+ Affects  : WIS           by 1
+ Affects  : HIT           by 6
+ Effects  : DETECT_INVISIBLE IMMUNE_DISEASE
+ Item is  : GLOW MAGIC
+ Restricts: NOTHIEF NOPALADIN NORANGER NOWARRIOR NODARK_KNIGHT NOBARBARIAN
+
+
+a set of iridescent green steel legplates..it glows dimly
+ Object 'legplates leg plates green steel iridescent'
+ Item Type: ARMOR
+ Mat Class: metal        Material: steel
+ Weight   : 8            Value   : 400
+
+ Affects  : RESIST_ACID   by 15
+ Affects  : DEX           by 1
+ Item is  : GLOW BLESS
+ Restricts: NOTHIEF NODRUID NOBARBARIAN NOBLACK_ROBE NORED_ROBE NOWHITE_ROBE
+ Apply    : 8
+
+some ornate midnight blue leather greaves
+ Object 'greaves leather midnight ornate blue'
+ Item Type: ARMOR
+ Mat Class: leather      Material: hard_leather
+ Weight   : 8            Value   : 600
+
+ Affects  : SAVING_SPELL  by -1
+ Item is  : MAGIC
+ Restricts: NOMAGE NOPALADIN NODRUID NOCLERIC NORANGER NOWARRIOR NODARK_KNIGHT NOBARBARIAN NOBLACK_ROBE NORED_ROBE NOWHITE_ROBE NOSHAMAN
+ Apply    : 5
+ This object is part of a larger set.
+
+ ornate midnight blue bracers:
+  Object 'bracers leather midnight ornate blue'
+ Item Type: ARMOR       
+ Mat Class: leather      Material: hard_leather
+ Weight   : 8            Value   : 600
+
+ Item is  : MAGIC
+ Restricts: NOMAGE NOPALADIN NODRUID NOCLERIC NORANGER NOWARRIOR NODARK_KNIGHT NOBARBARIAN NOBLACK_ROBE NORED_ROBE NOWHITE_ROBE NOSHAMAN
+ Apply    : 5
+ This object is part of a larger set.
+
+a pair of ornate midnight blue leather boots
+ Object 'boots leather midnight ornate blue'
+ Item Type: ARMOR       
+ Mat Class: leather      Material: hard_leather
+ Weight   : 5            Value   : 600
+
+ Item is  : MAGIC
+ Restricts: NOMAGE NOPALADIN NODRUID NOCLERIC NORANGER NOWARRIOR NODARK_KNIGHT NOBARBARIAN NOBLACK_ROBE NORED_ROBE NOWHITE_ROBE NOSHAMAN
+ Apply    : 5
+ This object is part of a larger set.
+
+a red and green striped minotaur's cloak
+ Object 'cloak red green striped'
+ Item Type: WORN
+ Mat Class: cloth        Material: wool
+ Weight   : 6            Value   : 240
+
+ Affects  : HIT           by 10
+ Item is  : MAGIC
+ Restricts: NOMAGE NODRUID NOCLERIC NOBLACK_ROBE NORED_ROBE NOWHITE_ROBE
+ Immune   : IMMUNE_HEAT
+
+
+pure white bracer
+ Object 'bracer white'
+ Item Type: ARMOR       
+ Mat Class: metal        Material: steel
+ Weight   : 6            Value   : 185
+
+ Affects  : WIS           by 1
+ Item is  : GLOW
+ Restricts: NOBARBARIAN
+ Apply    : 8
+
+
+jewel engraved grail
+ Object 'grail cup jewel engraved water'
+ Item Type: DRINKCON    
+ Mat Class: metal        Material: gold
+ Weight   : 17           Value   : 260
+
+ Item is  : MAGIC BLESS
+ Contains : 60
+ Capacity : 60
+
+stonemason's hammer
+ Object 'stonemason mason stone hammer'
+ Item Type: WEAPON      
+ Mat Class: natural      Material: stone
+ Weight   : 21           Value   : 600
+
+ Affects  : DAMROLL       by 2
+ Class    : hammer
+ Damage   : 3D5
+
+scuffed iron bracer
+ Object 'bracer scuffed iron'
+ Item Type: ARMOR       
+ Mat Class: metal        Material: iron
+ Weight   : 4            Value   : 300
+
+ Affects  : CON           by 1
+ Item is  : MAGIC
+ Apply    : 3
+
+
+grey leather mask
+plate
+
+brken lines
+moto gp
+marvel update
+
+
+dusty plainsman's tunic
+ Object 'tunic cloth plainsman plainsman's dusty'
+ Item Type: WORN        
+ Mat Class: cloth        Material: cotton
+ Weight   : 6            Value   : 200
+
+ Affects  : DEX           by 1
+ Affects  : RESIST_COLD   by 8
+ Affects  : RESIST_HEAT   by 8
+
+
+ tan neck scarf
+  Object 'scarf neck tan'
+ Item Type: WORN        
+ Mat Class: cloth        Material: silk
+ Weight   : 2            Value   : 165
+
+ Affects  : HIT           by 4
+ Affects  : RESIST_COLD   by 8
+
+
+ iridescent ebony carapace..it glows dimly
+  Object 'carapace ebony iridescent black shell'
+ Item Type: ARMOR       
+ Mat Class: natural      Material: organic
+ Weight   : 12           Value   : 600
+
+ Affects  : HIT           by 8
+ Affects  : RESIST_ACID   by 10
+ Item is  : GLOW MAGIC
+ Restricts: NOMAGE NOPALADIN NOWARRIOR NODARK_KNIGHT NOBLACK_ROBE NORED_ROBE NOWHITE_ROBE
+ Apply    : 8
+
+ a pair of fiery dragonscale gloves
+  Object 'gloves red fiery dragonscale dragon scale'
+ Item Type: ARMOR       
+ Mat Class: scale        Material: dragonscale
+ Weight   : 5            Value   : 600
+
+ Restricts: NOMAGE NOTHIEF NOPALADIN NOCLERIC NORANGER NOWARRIOR NODARK_KNIGHT NOBLACK_ROBE NORED_ROBE NOWHITE_ROBE NOSHAMAN
+ Apply    : 8
+ This object is part of a larger set.
+
+ A small orichalcum medallion is wearable: neck.
+  Object 'medallion orichalcum small golden monster tentacled'
+ The item is approaching the end of its life.
+ Item Type: WORN        
+ Mat Class: metal        Material: gold
+ Weight   : 3            Value   : 800
+
+ Affects  : spell slots   by +1 at level 6
+ Item is  : HUM MAGIC NORENT
+ Restricts: NOMAGE NOTHIEF NOPALADIN NORANGER NODARK_KNIGHT NOBARBARIAN NOBLACK_ROBE NORED_ROBE NOWHITE_ROBE
+
+ icy white bracelet
+  Object 'bracelet white icy'
+ Item Type: WORN        
+ Mat Class: metal        Material: gold
+ Weight   : 1            Value   : 500
+
+ Affects  : ARMOR         by -5
+ Affects  : RESIST_COLD   by 8
+ Item is  : MAGIC

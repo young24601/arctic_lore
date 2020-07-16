@@ -2,7 +2,7 @@ import os
 import sqlite3
 import re
 from flask import request
-from flask import g
+#from flask import g
 from flask import Flask
 from flask import render_template
 
@@ -13,7 +13,7 @@ def sql_execute(sql, conn=None, as_dictionary=False):
     if not conn:
         try:
             conn = sqlite3.connect(db_path)
-        except sqlite3.Error as e:
+        except sqlite3.Error:
             return
     try:
         cur = conn.cursor()
